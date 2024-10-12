@@ -9,7 +9,8 @@ import {
 function App(): React.JSX.Element {
   return (
     <View><Text>Danish</Text>
-    <Text>Danish</Text>
+      <Text>Danish</Text>
+      <Text>Danish</Text>
     </View>
   );
 }
