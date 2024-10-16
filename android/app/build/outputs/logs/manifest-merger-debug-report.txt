@@ -5,6 +5,7 @@ MERGED from /home/ubuntu/Todo-List/android/app/src/main/AndroidManifest.xml:1:1-
 INJECTED from /home/ubuntu/Todo-List/android/app/src/debug/AndroidManifest.xml:2:1-9:12
 INJECTED from /home/ubuntu/Todo-List/android/app/src/debug/AndroidManifest.xml:2:1-9:12
 INJECTED from /home/ubuntu/Todo-List/android/app/src/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-splash-screen] /home/ubuntu/Todo-List/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.react:react-android:0.75.4] /home/ubuntu/.gradle/caches/8.8/transforms/1f00369f60fb558f4c67464032b9f89f/transformed/react-android-0.75.4-debug/AndroidManifest.xml:2:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ubuntu/.gradle/caches/8.8/transforms/62e9ae2b9fdfd8c8e42c6301d91128ce/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /home/ubuntu/.gradle/caches/8.8/transforms/7e3a2d85f956185beb2f1e38094026bf/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -52,8 +53,18 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ubuntu/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/ubuntu/.gradle/caches/8.8/transforms/88cb31a59b61ab6cb403744cb4da6e7d/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/26684ce32e219bd0e087801fd8096ade/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/ubuntu/.gradle/caches/8.8/transforms/36213bba0f8dd842ee4ff22893bec27e/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.fbjni:fbjni:0.6.0] /home/ubuntu/.gradle/caches/8.8/transforms/fb92af41f860783fe60d03c1e1dbd7ef/transformed/fbjni-0.6.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/43fe2d2a16b78e50659180eee4b50838/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/6680ebb4fe14b92ffbdb459372a8f6e0/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/11cb4af090236d2b00244b94e7370fb2/transformed/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/57b38090ed7ad84b182beb62b812b22f/transformed/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/36052b9d100d1be799a4327fc3120aab/transformed/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/661d7a650a4b070e75806921bd7c413b/transformed/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/a8c84ce8622014802751df7948a98c63/transformed/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/f309fc0a5b216dad10d0868f425e39f1/transformed/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
 	package
 		INJECTED from /home/ubuntu/Todo-List/android/app/src/debug/AndroidManifest.xml
 	android:versionName
@@ -85,8 +96,28 @@ MERGED from [androidx.core:core:1.9.0] /home/ubuntu/.gradle/caches/8.8/transform
 MERGED from [androidx.core:core:1.9.0] /home/ubuntu/.gradle/caches/8.8/transforms/19a3848eea211a03727cbbbdeefda2de/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ubuntu/.gradle/caches/8.8/transforms/00494c329c58a95a683a704fcfd148e9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ubuntu/.gradle/caches/8.8/transforms/00494c329c58a95a683a704fcfd148e9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
 MERGED from [com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:11:5-15:19
 MERGED from [com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/43fe2d2a16b78e50659180eee4b50838/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/43fe2d2a16b78e50659180eee4b50838/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/6680ebb4fe14b92ffbdb459372a8f6e0/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/6680ebb4fe14b92ffbdb459372a8f6e0/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/11cb4af090236d2b00244b94e7370fb2/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/11cb4af090236d2b00244b94e7370fb2/transformed/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/57b38090ed7ad84b182beb62b812b22f/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/57b38090ed7ad84b182beb62b812b22f/transformed/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/36052b9d100d1be799a4327fc3120aab/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/36052b9d100d1be799a4327fc3120aab/transformed/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/661d7a650a4b070e75806921bd7c413b/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/661d7a650a4b070e75806921bd7c413b/transformed/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/a8c84ce8622014802751df7948a98c63/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/a8c84ce8622014802751df7948a98c63/transformed/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/f309fc0a5b216dad10d0868f425e39f1/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/f309fc0a5b216dad10d0868f425e39f1/transformed/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
 	android:extractNativeLibs
 		INJECTED from /home/ubuntu/Todo-List/android/app/src/debug/AndroidManifest.xml
 	android:appComponentFactory
@@ -143,6 +174,8 @@ uses-sdk
 INJECTED from /home/ubuntu/Todo-List/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ubuntu/Todo-List/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/ubuntu/Todo-List/android/app/src/debug/AndroidManifest.xml
+MERGED from [:react-native-splash-screen] /home/ubuntu/Todo-List/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-splash-screen] /home/ubuntu/Todo-List/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:react-android:0.75.4] /home/ubuntu/.gradle/caches/8.8/transforms/1f00369f60fb558f4c67464032b9f89f/transformed/react-android-0.75.4-debug/AndroidManifest.xml:10:5-44
 MERGED from [com.facebook.react:react-android:0.75.4] /home/ubuntu/.gradle/caches/8.8/transforms/1f00369f60fb558f4c67464032b9f89f/transformed/react-android-0.75.4-debug/AndroidManifest.xml:10:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/ubuntu/.gradle/caches/8.8/transforms/62e9ae2b9fdfd8c8e42c6301d91128ce/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
@@ -237,10 +270,32 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ubuntu/.gradle/caches/
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/26684ce32e219bd0e087801fd8096ade/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/ubuntu/.gradle/caches/8.8/transforms/36213bba0f8dd842ee4ff22893bec27e/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/ubuntu/.gradle/caches/8.8/transforms/36213bba0f8dd842ee4ff22893bec27e/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
 MERGED from [com.facebook.fbjni:fbjni:0.6.0] /home/ubuntu/.gradle/caches/8.8/transforms/fb92af41f860783fe60d03c1e1dbd7ef/transformed/fbjni-0.6.0/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.fbjni:fbjni:0.6.0] /home/ubuntu/.gradle/caches/8.8/transforms/fb92af41f860783fe60d03c1e1dbd7ef/transformed/fbjni-0.6.0/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/43fe2d2a16b78e50659180eee4b50838/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/43fe2d2a16b78e50659180eee4b50838/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/6680ebb4fe14b92ffbdb459372a8f6e0/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/6680ebb4fe14b92ffbdb459372a8f6e0/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/11cb4af090236d2b00244b94e7370fb2/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/11cb4af090236d2b00244b94e7370fb2/transformed/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/57b38090ed7ad84b182beb62b812b22f/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/57b38090ed7ad84b182beb62b812b22f/transformed/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/36052b9d100d1be799a4327fc3120aab/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/36052b9d100d1be799a4327fc3120aab/transformed/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/661d7a650a4b070e75806921bd7c413b/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/661d7a650a4b070e75806921bd7c413b/transformed/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/a8c84ce8622014802751df7948a98c63/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/a8c84ce8622014802751df7948a98c63/transformed/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/f309fc0a5b216dad10d0868f425e39f1/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/f309fc0a5b216dad10d0868f425e39f1/transformed/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/ubuntu/Todo-List/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
@@ -301,9 +356,37 @@ uses-permission#com.todoapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] /home/ubuntu/.gradle/caches/8.8/transforms/19a3848eea211a03727cbbbdeefda2de/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.9.0] /home/ubuntu/.gradle/caches/8.8/transforms/19a3848eea211a03727cbbbdeefda2de/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/43fe2d2a16b78e50659180eee4b50838/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/43fe2d2a16b78e50659180eee4b50838/transformed/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/6680ebb4fe14b92ffbdb459372a8f6e0/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/6680ebb4fe14b92ffbdb459372a8f6e0/transformed/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/11cb4af090236d2b00244b94e7370fb2/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/11cb4af090236d2b00244b94e7370fb2/transformed/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/57b38090ed7ad84b182beb62b812b22f/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/57b38090ed7ad84b182beb62b812b22f/transformed/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/36052b9d100d1be799a4327fc3120aab/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/36052b9d100d1be799a4327fc3120aab/transformed/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/661d7a650a4b070e75806921bd7c413b/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/661d7a650a4b070e75806921bd7c413b/transformed/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/a8c84ce8622014802751df7948a98c63/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/a8c84ce8622014802751df7948a98c63/transformed/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/f309fc0a5b216dad10d0868f425e39f1/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/f309fc0a5b216dad10d0868f425e39f1/transformed/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
 meta-data#com.facebook.soloader.enabled
 ADDED from [com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:12:9-14:37
 	android:value
 		ADDED from [com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:14:13-34
 	android:name
 		ADDED from [com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:13:13-57
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58

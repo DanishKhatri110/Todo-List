@@ -10,8 +10,15 @@ import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint.load
 import com.facebook.react.defaults.DefaultReactHost.getDefaultReactHost
 import com.facebook.react.defaults.DefaultReactNativeHost
 import com.facebook.soloader.SoLoader
+import org.devio.rn.splashscreen.SplashScreen;
 
 class MainApplication : Application(), ReactApplication {
+
+  @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        SplashScreen.show(this);  // here
+        super.onCreate(savedInstanceState);
+    }
 
   override val reactNativeHost: ReactNativeHost =
       object : DefaultReactNativeHost(this) {

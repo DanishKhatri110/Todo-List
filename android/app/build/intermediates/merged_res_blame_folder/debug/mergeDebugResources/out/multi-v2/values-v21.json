@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.todoapp-mergeDebugResources-23:/values-v21/values-v21.xml",
+            "outputFile": "com.todoapp-mergeDebugResources-26:/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/home/ubuntu/.gradle/caches/8.8/transforms/7e3a2d85f956185beb2f1e38094026bf/transformed/appcompat-1.6.1/res/values-v21/values-v21.xml",
@@ -23,6 +23,25 @@
                     }
                 },
                 {
+                    "source": "/home/ubuntu/.gradle/caches/8.8/transforms/57b38090ed7ad84b182beb62b812b22f/transformed/support-media-compat-26.1.0/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "282,285,289,293",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "20083,20251,20540,20836",
+                        "endLines": "284,287,291,295",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "20246,20409,20703,20998"
+                    }
+                },
+                {
                     "source": "/home/ubuntu/.gradle/caches/8.8/transforms/19a3848eea211a03727cbbbdeefda2de/transformed/core-1.9.0/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
@@ -33,12 +52,31 @@
                         "endOffsets": "168,232,299,363,479,605,731,859,1031,1383"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,264,265,266,267,268,271",
+                        "startLines": "2,3,4,5,280,281,288,292,296,299",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,173,237,304,18655,18771,18897,19023,19151,19323",
-                        "endLines": "2,3,4,5,264,265,266,267,270,275",
+                        "startOffsets": "55,173,237,304,19841,19957,20414,20708,21003,21175",
+                        "endLines": "2,3,4,5,280,281,288,292,298,303",
                         "endColumns": "117,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "168,232,299,363,18766,18892,19018,19146,19318,19670"
+                        "endOffsets": "168,232,299,363,19952,20078,20535,20831,21170,21522"
+                    }
+                },
+                {
+                    "source": "/home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "259,260,261,264,267,268,271,272",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "18966,19085,19214,19385,19551,19680,19851,19982",
+                        "endLines": "259,260,263,266,267,270,271,274",
+                        "endColumns": "118,128,12,12,128,12,130,12",
+                        "endOffsets": "19080,19209,19380,19546,19675,19846,19977,20147"
+                    },
+                    "to": {
+                        "startLines": "264,265,266,269,272,273,276,277",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "18655,18774,18903,19074,19240,19369,19540,19671",
+                        "endLines": "264,265,268,271,272,275,276,279",
+                        "endColumns": "118,128,12,12,128,12,130,12",
+                        "endOffsets": "18769,18898,19069,19235,19364,19535,19666,19836"
                     }
                 }
             ]

@@ -105,11 +105,23 @@
 62        </provider>
 63
 64        <meta-data
-64-->[com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:12:9-14:37
-65            android:name="com.facebook.soloader.enabled"
-65-->[com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:13:13-57
-66            android:value="false" />
-66-->[com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:14:13-34
-67    </application>
-68
-69</manifest>
+64-->[com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+65            android:name="android.support.VERSION"
+65-->[com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:27:13-51
+66            android:value="26.1.0" />
+66-->[com.android.support:appcompat-v7:26.1.0] /home/ubuntu/.gradle/caches/8.8/transforms/56aa705008988e8d9677c991092e9239/transformed/appcompat-v7-26.1.0/AndroidManifest.xml:28:13-35
+67        <meta-data
+67-->[com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:12:9-14:37
+68            android:name="com.facebook.soloader.enabled"
+68-->[com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:13:13-57
+69            android:value="false" />
+69-->[com.facebook.soloader:soloader:0.11.0] /home/ubuntu/.gradle/caches/8.8/transforms/c2cb9650391557699fbe9770d9cc8fda/transformed/soloader-0.11.0/AndroidManifest.xml:14:13-34
+70        <meta-data
+70-->[android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+71            android:name="android.arch.lifecycle.VERSION"
+71-->[android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:26:13-58
+72            android:value="27.0.0-SNAPSHOT" />
+72-->[android.arch.lifecycle:runtime:1.0.0] /home/ubuntu/.gradle/caches/8.8/transforms/5974c884c2be9ee168e1210a17d095a9/transformed/runtime-1.0.0/AndroidManifest.xml:27:13-44
+73    </application>
+74
+75</manifest>
